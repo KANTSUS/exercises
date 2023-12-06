@@ -1,0 +1,16 @@
+img{
+  float: right;
+}
+
+h1{
+  text-align: center;
+
+}
+body{
+  background-color: lightblue;
+}
+
+p{
+  height: 100px;
+  text-indent: 50px;
+}

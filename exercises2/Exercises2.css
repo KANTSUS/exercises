@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+
+.centering{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.center{
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 15px ;
+    text-align: center;
+    background-color: lightcoral;
+}

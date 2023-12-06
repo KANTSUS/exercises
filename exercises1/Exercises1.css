@@ -1,0 +1,52 @@
+body{
+  background-color: lightblue;
+}
+
+
+.box-top{
+ 
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.boxes{
+ 
+    justify-content: space-evenly;
+    display: flex ;
+  
+}
+
+.box1 {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: red;
+    text-align: center;
+  }
+
+  .box2 {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: yellow;
+    text-align: center;
+  }
+
+  .box3 {
+    width: 200px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: green;
+    text-align: center;
+  }
